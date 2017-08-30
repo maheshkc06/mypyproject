@@ -14,6 +14,12 @@ class Helloworld():
     def test(self):
         pass
 
+    def anothertest(self):
+        pass
+
+
+
+
 
 
 
