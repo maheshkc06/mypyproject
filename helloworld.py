@@ -11,6 +11,11 @@ class Helloworld():
     def greet(self):
         return "hello " + self.name
 
+    def test(self):
+        pass
+
+
+
 
 c = Helloworld("mahesh")
 print(c.greet())
