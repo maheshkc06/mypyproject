@@ -9,6 +9,8 @@ class Helloworld():
         return "hello " + self.name
 
 
+c = Helloworld("mahesh")
+print(c.greet())
 
 
 
