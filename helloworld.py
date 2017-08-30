@@ -1,3 +1,6 @@
+
+
+# greeting the given name
 import sys
 
 class Helloworld():
@@ -11,6 +14,7 @@ class Helloworld():
 
 c = Helloworld("mahesh")
 print(c.greet())
+
 
 
 
